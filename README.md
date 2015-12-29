@@ -1,5 +1,5 @@
 # unity3d-framework
 
-Integration of some frequently used functions in unity3d project develop.
+An application framework for C# Unity3D game projects
 
-If you have any question, please contact me: robin201107@126.com
+If you have any question, please contact me robin201107@126.com
